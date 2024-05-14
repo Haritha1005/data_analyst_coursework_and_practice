@@ -9,7 +9,6 @@ Welcome to my Data Analyst portfolio! Below you'll find a collection of projects
    - [Python Projects](#python-projects)
      - [App Ratings Prediction](#app-ratings-prediction)
      - [Insurance Data Analysis](#insurance-data-analysis)
-     - [Online Car Rental Platform](#online-car-rental-platform)
    - [SQL Projects](#sql-projects)
      - [ScienceQtech Employee Performance Mapping](#scienceqtech-employee-performance-mapping)
      - [Air Cargo Analysis](#air-cargo-analysis)
