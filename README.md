@@ -14,7 +14,7 @@ Welcome to my Data Analyst portfolio! Below you'll find a collection of projects
      - [Air Cargo Analysis](#air-cargo-analysis)
    - [R Projects](#r-projects)
      - [Bike Rental Prediction](#bike-rental-prediction)
-   - [Excel / Google Sheets](#excel--google-sheets)
+   - [Excel / Google Sheets]
    - [Tableau](#tableau)
    - [Power BI](#power-bi)
 3. [Education](#education)
@@ -76,21 +76,24 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
 **Results:** The project provided insights into employee performance and project engagement within ScienceQtech. This included identifying high-performing employees, analyzing project contributions, and assessing performance trends. The analysis facilitated data-driven decision-making to enhance organizational effectiveness and identify areas for employee development.
 
 #### Air Cargo Analysis
-Description of the project and its significance.
+
+**Code:** [Air Cargo Analysis.sql](https://github.com/Haritha1005/DATA-ANALYSIS-PORTFOLIO/blob/main/Air%20Cargo%20Analysis.sql)
+
+**Goal:** To identify regular customers, analyze busiest routes, and determine ticket sales details to improve operational efficiency and customer satisfaction at Air Cargo.
+
+**Description:** This project involved analyzing the dataset of Air Cargo, an aviation company, to identify regular customers for targeted offers, analyze busiest routes for resource allocation, and determine ticket sales details to improve operational efficiency. SQL queries were used to extract relevant information from tables such as Customer, Passengers_on_flights, Ticket_details, and Routes. Tasks included creating an ER diagram, writing queries for data extraction and analysis, implementing constraints, and creating stored procedures and views for efficient data retrieval.
+
+**Skills:** Data importing, Database management, SQL querying, Data analysis and reporting
+
+**Technology:** MySQL Workbench, SQL
+
+**Results:** Identified key regular customers who could be targeted with personalized offers, enhancing customer retention.
+Analyzed the busiest routes, leading to better allocation of aircraft and crew resources.
+Generated detailed ticket sales reports, providing insights into revenue patterns and helping to optimize pricing strategies.
 
 ### R Projects
 
 #### Bike Rental Prediction
-Description of the project and its significance.
-
-### Excel / Google Sheets
-Description of the project and its significance.
-
-### Tableau
-Description of the project and its significance.
-
-### Power BI
-Description of the project and its significance.
 
 ## Education
 
