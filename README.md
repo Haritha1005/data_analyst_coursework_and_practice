@@ -14,7 +14,7 @@ Welcome to my Data Analyst portfolio! Below you'll find a collection of projects
      - [Air Cargo Analysis](#air-cargo-analysis)
    - [R Projects](#r-projects)
      - [Bike Rental Prediction](#bike-rental-prediction)
-   - [Excel / Google Sheets]
+   - Excel / Google Sheets
    - [Tableau](#tableau)
    - [Power BI](#power-bi)
 3. [Education](#education)
@@ -32,7 +32,8 @@ In this section, I will list data analytics projects briefly describing the tech
 
 ## Python Projects
 ### App Ratings Prediction
-### Code: [App Ratings Prediction.ipynb](https://github.com/Haritha1005/DATA-ANALYSIS-PORTFOLIO/blob/main/App%20Ratings%20Prediction.ipynb)
+
+**Code:** [App Ratings Prediction.ipynb](https://github.com/Haritha1005/DATA-ANALYSIS-PORTFOLIO/blob/main/App%20Ratings%20Prediction.ipynb)
 
 **Goal:** To build a model to predict the app rating based on various features provided in the Google Play Store dataset.
 
@@ -47,7 +48,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
 
 ### Insurance Data Analysis
 
-### Code: [Insurance Data Analysis.ipynb](https://github.com/Haritha1005/DATA-ANALYSIS-PORTFOLIO/blob/main/Insurance%20Data%20Analysis.ipynb)
+**Code:** [Insurance Data Analysis.ipynb](https://github.com/Haritha1005/DATA-ANALYSIS-PORTFOLIO/blob/main/Insurance%20Data%20Analysis.ipynb)
 
 **Goal:** To analyze the insurance dataset and create a model to predict the cost of medical insurance based on various input features.
 
@@ -63,7 +64,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
 
 ### Employee Performance Mapping
 
-### Code: [ScienceQtech Employee Performance Mapping.sql](https://github.com/Haritha1005/DATA-ANALYSIS-PORTFOLIO/blob/main/ScienceQtech_Employee_Performance_Mapping.sql)
+**Code:** [ScienceQtech Employee Performance Mapping.sql](https://github.com/Haritha1005/DATA-ANALYSIS-PORTFOLIO/blob/main/ScienceQtech_Employee_Performance_Mapping.sql)
 
 **Goal:** To analyze employee details, performance, and projects within ScienceQtech to derive insights for organizational improvement.
 
