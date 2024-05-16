@@ -1,4 +1,4 @@
-### 1. Create database and import data 
+-- 1. Create database and import data 
 
 CREATE DATABASE employee;
 
@@ -8,7 +8,7 @@ Created a database named employee and imported data_science_team.csv, proj_table
 
 ### 2. Create an ER diagram for the given employee database.
 
-![ER Diagram]("C:\Data Analytics - Master course Simplilearn\Course 2 - SQL\ER Diagram_EmployeeDB.png")
+![ER Diagram_EmployeeDB](https://github.com/Haritha1005/DATA-ANALYSIS-PORTFOLIO/assets/93762176/17fa1027-8fe8-43a1-876c-65aa33cc059b)
 
 ### 3. Fetch employee details and department
 
