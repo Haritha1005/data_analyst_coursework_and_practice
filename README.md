@@ -76,7 +76,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
 
 **Results:** The project provided insights into employee performance and project engagement within ScienceQtech. This included identifying high-performing employees, analyzing project contributions, and assessing performance trends. The analysis facilitated data-driven decision-making to enhance organizational effectiveness and identify areas for employee development.
 
-#### Air Cargo Analysis
+### Air Cargo Analysis
 
 **Code:** [Air Cargo Analysis.sql](https://github.com/Haritha1005/DATA-ANALYSIS-PORTFOLIO/blob/main/Air%20Cargo%20Analysis.sql)
 
@@ -92,10 +92,23 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
 Analyzed the busiest routes, leading to better allocation of aircraft and crew resources.
 Generated detailed ticket sales reports, providing insights into revenue patterns and helping to optimize pricing strategies.
 
-### R Projects
+## R Projects
 
-#### Bike Rental Prediction
+#### Flight Data Analysis
 
+**Code:** [Flight Data Analysis.R](https://github.com/Haritha1005/DATA-ANALYSIS-PORTFOLIO/blob/main/Flight%20Data%20Analysis.R)
+
+**Goal:**
+The goal of the Flight Data Analysis project is to analyze flight data to understand the effect of various factors, such as weather conditions and other variables, on flight delays. By visualizing the data using histograms, scatter plots, box plots, and pie charts, the project aims to gain insights into the patterns and relationships within the dataset.
+
+**Description:**
+The project involves reading and understanding a flight dataset, identifying null values, and installing required packages. It then proceeds to analyze the data by plotting histograms to visualize the relationships between scheduled time, carrier, destination, origin, weather, and day of the week. Additionally, scatter plots are created to compare flights on time and delayed, while box plots depict delays by day of the month. The project also involves defining hours of departure, creating a categorical representation of data using a table, and redefining delay variables if necessary.
+
+**Skills:** Data importing and manipulation, Data visualization using histograms, scatter plots, box plots, and pie charts, Exploratory data analysis (EDA)
+
+**Technology:** R programming language, Packages: `readxl`, `plotly`, `dplyr`
+
+**Result:** The result of the Flight Data Analysis project includes visualizations that provide insights into the relationships between various variables and flight delays. These visualizations aid in understanding the impact of weather conditions, scheduled time, carrier, destination, and other factors on flight delays, thus helping in making informed decisions to improve operational efficiency and customer satisfaction in the aviation industry.
 ## Education
 
 - Masters Program - Data Analyst : Simplilearn Certified in collaboration with IBM, 2023 - 2024
@@ -103,10 +116,10 @@ Generated detailed ticket sales reports, providing insights into revenue pattern
 
 ### Certificates
 
-- Business Analytics with Excel (Simplilearn)
-- SQL and Power BI training (Simplilearn)
-- Python for Data Science (Simplilearn)
-- CFA Investment foundation Course (CFA Institute)
+- [Business Analytics with Excel Certification](https://acrobat.adobe.com/id/urn:aaid:sc:AP:7dcd18f7-d973-42f1-8ab1-b7b05b6d6426) (Simplilearn)
+- [SQL training](https://acrobat.adobe.com/id/urn:aaid:sc:AP:163dab00-24c4-40d5-af41-6dcd32c13bc7) (Simplilearn)
+- [Python for Data Science](https://acrobat.adobe.com/id/urn:aaid:sc:AP:2cba046a-d01d-4b33-a643-49729049a9f0) (IBM)
+- [CFA Institute Investment Foundations](https://credentials.cfainstitute.org/2750fd3f-dc53-469f-bdfd-a68f1f2f1f31#gs.8wstql) (CFA Institute)
 
 ## Contact
 
