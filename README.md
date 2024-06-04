@@ -15,7 +15,7 @@ Welcome to my Data Analyst portfolio! Below you'll find a collection of projects
    - [R Projects](#r-projects)
      - [Bike Rental Prediction](#bike-rental-prediction)
    - Excel / Google Sheets
-   - [Tableau](#tableau)
+   - Tableau--> [go to Tableau](https://public.tableau.com/app/profile/haritha1005)
    - [Power BI](#power-bi)
 3. [Education](#education)
    - [Certificates](#certificates)
@@ -109,6 +109,29 @@ The project involves reading and understanding a flight dataset, identifying nul
 **Technology:** R programming language, Packages: `readxl`, `plotly`, `dplyr`
 
 **Result:** The result of the Flight Data Analysis project includes visualizations that provide insights into the relationships between various variables and flight delays. These visualizations aid in understanding the impact of weather conditions, scheduled time, carrier, destination, and other factors on flight delays, thus helping in making informed decisions to improve operational efficiency and customer satisfaction in the aviation industry.
+
+## Power BI Report
+
+#### HR Analytics Project
+
+1. **Goal**
+   - To analyze HR data for insights on employee demographics, attrition rates, and overall employee wellness.
+
+2. **Description**
+   - **Data Cleaning:** Removed redundant columns, renamed columns, dropped duplicates, cleaned individual columns, and handled NaN values.
+   - **Data Visualization:** Created correlation maps and various charts (bar, donut, and stacked column charts) to analyze relationships between different HR metrics.
+   - **Dashboards**:
+     - Overview: Summary of all dashboards.
+     - Demographic Insights: Key demographic data.
+     - Turnover Analysis 1: Attrition by education field, marital status, and job role.
+     - Turnover Analysis 2: Attrition by business travel, department, and years in current role.
+     - Employee Wellness: Environmental satisfaction, job involvement, relationship satisfaction, performance rating, and work-life balance.
+
+3. **Conclusion:** The project provided actionable insights into factors influencing employee attrition and overall wellness, aiding in strategic HR decision-making.
+
+4. **Link to Power BI Report**
+   -->> [Power BI Report](https://github.com/Haritha1005/DATA-ANALYSIS-PORTFOLIO/blob/main/HR-Employee-Attrition.pbix)
+
 ## Education
 
 - Masters Program - Data Analyst : Simplilearn Certified in collaboration with IBM, 2023 - 2024
@@ -124,4 +147,4 @@ The project involves reading and understanding a flight dataset, identifying nul
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/haritha1005/)
-- Email: haritha.m0005@gmail.com
+- Email: haritha110287@gmail.com
