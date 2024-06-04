@@ -16,7 +16,7 @@ Welcome to my Data Analyst portfolio! Below you'll find a collection of projects
      - [Bike Rental Prediction](#bike-rental-prediction)
    - Excel / Google Sheets
    - Tableau--> [go to Tableau](https://public.tableau.com/app/profile/haritha1005)
-   - [Power BI](#Power BI Report)
+   - [Power BI Report](#Power-BI-Report)
 3. [Education](#education)
    - [Certificates](#certificates)
 4. [Contact](#contact)
