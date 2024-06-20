@@ -126,6 +126,7 @@ In this section, I will list data analytics projects briefly describing the tech
 - [SQL training](https://acrobat.adobe.com/id/urn:aaid:sc:AP:163dab00-24c4-40d5-af41-6dcd32c13bc7) (Simplilearn)
 - [Python for Data Science](https://acrobat.adobe.com/id/urn:aaid:sc:AP:2cba046a-d01d-4b33-a643-49729049a9f0) (IBM)
 - [CFA Institute Investment Foundations](https://credentials.cfainstitute.org/2750fd3f-dc53-469f-bdfd-a68f1f2f1f31#gs.8wstql) (CFA Institute)
+- [PL-300 Microsoft Power BI Training ](https://certificates.simplicdn.net/share/6796191.pdf) (Simplilearn)
 
 ## Contact
 
