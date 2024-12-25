@@ -4,7 +4,7 @@ Welcome to my Data Analysis portfolio! Below you'll find a collection of project
 
 ## Table of Contents
 - [About](#about)
-- [Portfolio Projects](https://haritha1005.github.io/DATA-ANALYSIS-PORTFOLIO/)
+- [Portfolio Projects](https://haritha1005.github.io/#)
   - [Python Projects](https://github.com/Haritha1005/DATA-ANALYSIS-PORTFOLIO/tree/main/Python%20-%20Projects)
     - [App Ratings Prediction](https://github.com/Haritha1005/DATA-ANALYSIS-PORTFOLIO/blob/main/Python%20-%20Projects/App%20Ratings%20Prediction.ipynb)
     - [Insurance Data Analysis](https://github.com/Haritha1005/DATA-ANALYSIS-PORTFOLIO/blob/main/Python%20-%20Projects/Insurance%20Data%20Analysis.ipynb)
@@ -20,7 +20,7 @@ Welcome to my Data Analysis portfolio! Below you'll find a collection of project
 - [Certificates](#certificates)
 - [Contact](#contact)
 
-## About Me
+## About
 
 Hi, I'm Haritha, a finance and data analytics professional with experience in private market analysis, data management, and financial insights. Currently working as a Data Monitoring Analyst for Adams Street Partners, I specialize in managing financial datasets, automating workflows, and profiling new companies to support investment decisions. My work involves analyzing quarterly financials, managing cash flows, and categorizing companies based on sector, stage, and other key attributes.
 
@@ -28,7 +28,7 @@ To enhance efficiency, I leverage tools like Excel and SQL, performing tasks suc
 
 With a strong foundation in data visualization tools like Tableau and Power BI, as well as programming in Python, I am eager to transition into a more technical role, focusing on data-driven solutions to complex problems.
 
-For a closer look at my qualifications, click here to view my resume(https://docs.google.com/document/d/10EA7sotrKBrJ3U3u_Rd4CwFqobfCftq4/edit?usp=drive_link&ouid=114565268819556479133&rtpof=true&sd=true).
+For a closer look at my qualifications, click [here](https://docs.google.com/document/d/10EA7sotrKBrJ3U3u_Rd4CwFqobfCftq4/edit?usp=drive_link&ouid=114565268819556479133&rtpof=true&sd=true) to view my resume.
 
 ## Education
 
