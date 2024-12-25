@@ -28,7 +28,7 @@ To enhance efficiency, I leverage tools like Excel and SQL, performing tasks suc
 
 With a strong foundation in data visualization tools like Tableau and Power BI, as well as programming in Python, I am eager to transition into a more technical role, focusing on data-driven solutions to complex problems.
 
-For a closer look at my qualifications, click [here](https://docs.google.com/document/d/10EA7sotrKBrJ3U3u_Rd4CwFqobfCftq4/edit?usp=drive_link&ouid=114565268819556479133&rtpof=true&sd=true) to view my resume.
+For a closer look at my qualifications, click [here](https://docs.google.com/document/d/1imqZG5FUlaEn935ApbDMdHDlM-ZM3c-Z/edit?usp=drive_link&ouid=114565268819556479133&rtpof=true&sd=true) to view my resume.
 
 ## Education
 
