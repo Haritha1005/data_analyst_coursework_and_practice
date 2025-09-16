@@ -46,7 +46,7 @@ My technical toolkit includes:
 
 
 ### 🔹 Tableau Dashboards
-- [Private Equity Portfolio Monitoring Dashboard](https://github.com/Haritha1005/finance_data_analysis/tree/main/tableau_dashboard)  
+- Explore my interactive dashboards on [Tableau Public](https://public.tableau.com/app/profile/haritha1005/vizzes)  
 
 ---
 
